@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # YouTube Transcript Summarizer: Flask Back-End Repository
 ### <i><b>Caution:</b> There is no open source license attached to this repository, which means that you can not copy/make changes without the author's permission. This repository is only for any future improvements or suggestions if someone wants to add to this project.
 ### So, if you are planning to use this repository for your own final year minor/major projects, then, unfortunately, you can not use this repository to submit because it was already submitted by me in the first place. This repository is only made available by me for any improvements you want to add or suggest. If I get to know that someone is using this repository as their project, then, unfortunately I would have to report this "unauthorised copying/project already built scenario" to your university/college.
@@ -87,3 +88,7 @@ As before mentioned, this back-end repository also hosts the web summmarizer. Th
 
 ##### The back-end uses an undocumented part of the YouTube API, which is called by the YouTube web-client. So there is no guarantee that it would stop working tomorrow, if they change how things work. In case that happens, I will do my best to make things work again as soon as possible if that happens. So if it stops working, let me know!
 ##### This is not an official tool from YouTube. I have built this package for my final year project. 
+=======
+# docker-Project
+simple application deployment using docker 
+>>>>>>> 83972a831cad3bdde2e8c15bbdf16ffaf5ce7f24
